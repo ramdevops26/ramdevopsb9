@@ -1,0 +1,11 @@
+this is test file
+uptime
+ls
+log
+c1
+c2
+c3
+pwd
+hi
+hello
+see u
