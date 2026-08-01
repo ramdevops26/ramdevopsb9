@@ -1,3 +1,6 @@
 Laptop
 Mouse
 Keyboard
+powder
+charger
+
